@@ -36209,14 +36209,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-5 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #9523b5;
+            background-color: #290048;
         }
 
         .u-button-style.u-custom-color-5,
         .u-button-style.u-custom-color-5[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #9523b5 !important;
+            background-color: #290048 !important;
         }
 
         .u-button-style.u-custom-color-5:hover,
@@ -36231,7 +36231,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-5[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #8620a3 !important;
+            background-color: #250041 !important;
         }
 
         .u-hover-custom-color-5:hover,
@@ -36256,11 +36256,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-5[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #9523b5 !important;
+            background-color: #290048 !important;
         }
 
         a.u-link.u-hover-custom-color-5:hover {
-            color: #9523b5 !important;
+            color: #290048 !important;
         }
 
         
@@ -36525,14 +36525,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-5,
         .u-separator-custom-color-5:after
         {
-            border-color: #9523b5;
-            stroke: #9523b5;
+            border-color: #290048;
+            stroke: #290048;
         }
 
         .u-button-style.u-border-custom-color-5
         {
-            border-color: #9523b5 !important;
-            color: #9523b5 !important;
+            border-color: #290048 !important;
+            color: #290048 !important;
             background-color: transparent !important;
         }
 
@@ -36540,7 +36540,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-5:focus
         {
             border-color: transparent !important;
-            color: #8620a3 !important;
+            color: #250041 !important;
             background-color: transparent !important;
         }
 
@@ -36555,18 +36555,18 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-5,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-5
         {
-            color: #9523b5 !important;
-            border-color: #9523b5 !important;
+            color: #290048 !important;
+            border-color: #290048 !important;
         }
 
         .u-link.u-border-custom-color-5[class*="u-border-"]
         {
-            border-color: #9523b5 !important;
+            border-color: #290048 !important;
         }
 
         .u-link.u-border-custom-color-5[class*="u-border-"]:hover
         {
-            border-color: #8620a3 !important;
+            border-color: #250041 !important;
         }
         
         
@@ -36885,7 +36885,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-5,
         a.u-button-style.u-text-custom-color-5[class*="u-border-"]
         {
-            color: #9523b5 !important;
+            color: #290048 !important;
         }
 
         a.u-button-style.u-text-custom-color-5:hover,
@@ -36897,7 +36897,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-5.active,
         a.u-button-style.u-button-style.u-text-custom-color-5[class*="u-border-"].active
         {
-            color: #8620a3 !important;
+            color: #250041 !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-5,
@@ -36921,7 +36921,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-5 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-5 .u-nav-link.active
         {
-            color: #9523b5 !important;
+            color: #290048 !important;
         }
 
         .u-text-custom-color-5 .u-svg-link,
@@ -36930,17 +36930,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-5 .u-svg-link,
         .u-text-hover-custom-color-5:focus .u-svg-link
         {
-            fill: #9523b5;
+            fill: #290048;
         }
 
         .u-link.u-text-custom-color-5:hover
         {
-            color: #8620a3 !important;
+            color: #250041 !important;
         }
 
         a.u-link.u-text-hover-custom-color-5:hover
         {
-            color: #9523b5 !important;
+            color: #290048 !important;
         }
         
         
